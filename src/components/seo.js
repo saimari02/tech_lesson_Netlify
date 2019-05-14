@@ -82,10 +82,10 @@ function SEO({ description, lang, meta, keywords, title }) {
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `ja`,
   meta: [],
   keywords: [],
-  description: ``,
+  description: `開発ブログの覚書です。`,
 }
 
 SEO.propTypes = {
