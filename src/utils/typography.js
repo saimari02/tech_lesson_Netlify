@@ -7,10 +7,10 @@ Wordpress2016.overrideThemeStyles = () => {
       boxShadow: `none`,
     },
     "body": {
-    	FontFamily: `"YuGothic", "Yu Gothic", "Meiryo", "Roboto Regular", "-apple-system", "BlinkMacSystemFont", "Helvetica Neue", "sans-serif"`,
+    	FontFamily: `"游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "Meiryo", "Roboto Regular", "-apple-system", "BlinkMacSystemFont", "Helvetica Neue", "sans-serif"`,
     },
     "h1, h2, h3, h4, h5, h6": {
-    	FontFamily: `"YuGothic", "Yu Gothic", "Meiryo", "Roboto Regular", "-apple-system", "BlinkMacSystemFont", "Helvetica Neue", "sans-serif"`,
+    	FontFamily: `"游ゴシック体", YuGothic, "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック", "Yu Gothic", "Meiryo", "Roboto Regular", "-apple-system", "BlinkMacSystemFont", "Helvetica Neue", "sans-serif"`,
     },
   }
 }
